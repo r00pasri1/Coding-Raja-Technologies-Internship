@@ -25,16 +25,16 @@ A simple console-based application to manage your tasks with a To-Do List and tr
   
    git clone https://github.com/your-username/todo-budget-tracker.git
    cd todo-budget-tracker
-**Run the Application:*
+****Run the Application:***
 To run the To-Do List:
 
 Copy code
 python todo_list.py
 To run the Personal Budget Tracker:
-bash
+
 Copy code
 python budget_tracker.py
-Usage
+**Usage**
 Follow the prompts to interact with the application.
 For the To-Do List, manage tasks and categories easily.
 For the Personal Budget Tracker, record expenses and income, analyze spending trends, and save data for future reference.
