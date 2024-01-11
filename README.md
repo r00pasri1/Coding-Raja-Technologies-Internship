@@ -23,7 +23,7 @@ A simple console-based application to manage your tasks with a To-Do List and tr
 
 2. **Clone the Repository:**
   
-   git clone https://github.com/your-username/todo-budget-tracker.git
+   git clone https://github.com/https://r00pasri1/todo-budget-tracker.git
 
    
 
